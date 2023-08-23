@@ -1,4 +1,5 @@
 # Pizza-Sales---Excel-dashboard-report
+![pizza dashboard](https://github.com/data-enthusiast-shubhs/pizza-sales---Excel-dashboard-report/assets/115934788/0791b380-bd3f-4b73-b4c2-b66ba77d7c13)
 
 **Pizza Sales Dashboard Readme**
 
